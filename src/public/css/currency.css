@@ -1,0 +1,11 @@
+.alphaHeader {
+    padding: 16px;
+    border-bottom: 1px solid grey;
+}
+.countryDiv {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#tip {
+    display: none;
+}

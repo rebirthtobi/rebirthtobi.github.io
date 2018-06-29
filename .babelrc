@@ -1,0 +1,14 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "node": "9.10.0"
+      }
+    }],
+    "es2015"
+  ],
+  "plugins": [
+    ["transform-class-properties", {"spec": true}],
+    ["transform-es2015-arrow-functions", { "spec": true }]
+  ]
+}

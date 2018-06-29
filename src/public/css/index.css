@@ -1,0 +1,16 @@
+#fromSelect {
+    background-color: lightseagreen;
+}
+#fromEntry {
+    border: 2px solid lightseagreen;
+}
+#toSelect {
+    background-color: orange
+}
+#toEntry {
+    border: 2px solid orange;
+    background-color: #fff;
+}
+#swapIcon {
+    color: green;
+}
