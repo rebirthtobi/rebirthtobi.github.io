@@ -5,7 +5,7 @@ self.addEventListener('install', (event) => {
     caches.open(staticCacheName).then((cache) => {
       return cache.addAll([
         '/',
-        '/currencies',
+        '/currency.html',
         '/js/main.js',
         '/js/db.js',
         '/js/idb.js',
